@@ -36,6 +36,16 @@ dependencies:
   cupertino_icons: ^1.0.8
   # Image picker for selecting avatar from gallery
   image_picker: ^1.1.1
+  # Shared preferences for data persistence
+  shared_preferences: ^2.2.3
+  # BLE plugin for Flutter
+  flutter_blue_plus: ^1.27.3
+  # Permission handler for runtime permissions
+  permission_handler: ^11.3.1
+  # State management
+  provider: ^6.1.1
+  # Local notifications
+  flutter_local_notifications: ^17.1.2
 
 dev_dependencies:
   flutter_test:
